@@ -1,6 +1,8 @@
 # End-to-End Google Earth Engine by Ujaval Gandhi
 
-<div style="text-align:center"><img style="width:33%" src="static/imgs/spatial_thoughts_logo.png"></div>
+<p align="center">
+  <img width="300" src="static/imgs/spatial_thoughts_logo.png">
+</p>
 
 This repo reproduces [Ujaval Gandhi](https://github.com/spatialthoughts)'s JS-based course ["End-to-End Google Earth Engine"](https://courses.spatialthoughts.com/end-to-end-gee.html) using Python and [`geemap`](https://github.com/giswqs/geemap). 
 
