@@ -15,11 +15,12 @@ For other courses, visit [SpatialThoughts](https://spatialthoughts.com/).
 ## Roadmap
 
 We provide links for the available notebooks:
-- [Introduction to Remote Sensing](https://github.com/Akramz/end-to-end-gee/blob/main/0_Introduction_to_Remote_Sensing.ipynb)
-- [Introduction to the Python API](https://github.com/Akramz/end-to-end-gee/blob/main/1_Introduction_to_Python_API.ipynb)
-- [Earth Engine Basics](https://github.com/Akramz/end-to-end-gee/blob/main/2_Earth_Engine_Basics.ipynb)
-- [Earth Engine Intermediate](https://github.com/Akramz/end-to-end-gee/blob/main/3_Earth_Engine_Intermediate.ipynb)
-- [Supervised Classification and Change_Detection](https://github.com/Akramz/end-to-end-gee/blob/main/4_Supervised_Classification_and_Change_Detection.ipynb)
-- [Advanced Earth Engine](https://github.com/Akramz/end-to-end-gee/blob/main/5_Advanced_Earth_Engine.ipynb)
+- [Introduction to Remote Sensing](https://nbviewer.jupyter.org/github/Akramz/end-to-end-gee/blob/main/0_Introduction_to_Remote_Sensing.ipynb)
+- [Introduction to the Python API](https://nbviewer.jupyter.org/github/Akramz/end-to-end-gee/blob/main/1_Introduction_to_Python_API.ipynb)
+- [Earth Engine Basics](https://nbviewer.jupyter.org/github/Akramz/end-to-end-gee/blob/main/2_Earth_Engine_Basics.ipynb)
+- [Earth Engine Intermediate](https://nbviewer.jupyter.org/github/Akramz/end-to-end-gee/blob/main/3_Earth_Engine_Intermediate.ipynb)
+- [Supervised Classification and Change_Detection](https://nbviewer.jupyter.org/github/Akramz/end-to-end-gee/blob/main/4_Supervised_Classification_and_Change_Detection.ipynb)
+- [Advanced Earth Engine](https://nbviewer.jupyter.org/github/Akramz/end-to-end-gee/blob/main/5_Advanced_Earth_Engine.ipynb)
+- [Project: Drought Monitoring](https://nbviewer.jupyter.org/github/Akramz/end-to-end-gee/blob/main/6_Project_Drought_Monitoring.ipynb)
 
 ---
