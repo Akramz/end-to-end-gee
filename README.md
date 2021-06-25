@@ -23,4 +23,5 @@ We provide links for the available notebooks:
 - [Advanced Earth Engine](https://nbviewer.jupyter.org/github/Akramz/end-to-end-gee/blob/main/5_Advanced_Earth_Engine.ipynb)
 - [Project: Drought Monitoring](https://nbviewer.jupyter.org/github/Akramz/end-to-end-gee/blob/main/6_Project_Drought_Monitoring.ipynb)
 - [Project: Flood Mapping](https://nbviewer.jupyter.org/github/Akramz/end-to-end-gee/blob/main/7_Flood_Mapping.ipynb)
+- [Project: Extracting Time-Series](https://nbviewer.jupyter.org/github/Akramz/end-to-end-gee/blob/main/8_Time_Series.ipynb)
 ---
